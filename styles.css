@@ -1,0 +1,24 @@
+H1 {
+  color: #000080;
+  font-size: 200%;
+  font-family: Verdana, Geneva, sans-serif;
+  padding-left: 40px;
+}
+P {
+  text-padding-left: 20px;
+  
+}
+
+.TEXTBOX {
+	background-color:PowderBlue;
+  width: 600px;
+  -moz-border-radius: 20px;
+  border-radius: 15px;
+  padding: 10px;
+  font-family:Verdana, Geneva, sans-serif;
+  font-size: 10pt;
+  text-align:justify;
+}
+BODY {
+	background-color:SkyBlue;
+}
